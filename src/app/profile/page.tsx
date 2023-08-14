@@ -40,7 +40,7 @@ const Home: NextPage = async () => {
             </div>
           </div>
         ) : (
-          <div>You must sign in to view your profile.</div>
+          <div>You must sign in to view your profile...</div>
         )}
       </div>
     </>
